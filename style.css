@@ -1,0 +1,21 @@
+*{
+	font-family: 'Germania One', cursive;
+}
+
+h1{
+	color: pink;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 50px;
+}
+
+img{
+	height: 193px;
+	width: 257px;
+	transform: rotate(180deg);
+}
+
+.about, .tech, .contact {
+	margin-right: 100px;
+	margin-left: 100px;
+}
