@@ -1,10 +1,9 @@
 *{
-	font-family:'Helvetica', Sans-serif;
-	background-color:white;
+	font-family: 'Germania One', cursive;
 }
 
 h1{
-	color: black;
+	color: pink;
 	margin-left: 100px;
 	margin-right: 100px;
 	font-size: 50px;
@@ -14,8 +13,6 @@ img{
 	height: 193px;
 	width: 257px;
 	transform: rotate(180deg);
-	margin-left:100px;
-	margin-right:100px;
 }
 
 .about, .tech, .contact {
