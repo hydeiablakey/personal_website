@@ -1,5 +1,6 @@
+
 *{
-	font-family: 'Germania One', cursive;
+	font-family: 'Lato', arial;
 }
 
 h1{
@@ -10,12 +11,13 @@ h1{
 }
 
 img{
+	margin-left: 100px;
 	height: 193px;
 	width: 257px;
-	transform: rotate(180deg);
 }
 
 .about, .tech, .contact {
 	margin-right: 100px;
 	margin-left: 100px;
+
 }
