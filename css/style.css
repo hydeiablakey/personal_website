@@ -1,0 +1,30 @@
+*{
+	font-family: 'Lato', helvetica;
+}
+
+h1{
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 50px;
+}
+
+body {
+	background-color:white;
+}
+
+p{
+	color: teal;
+}
+
+img{
+	margin-left: 100px;
+	height: 193px;
+	width: 257px;
+
+}
+
+
+.about, .tech, .contact {
+	margin-right: 100px;
+	margin-left: 100px;
+}
