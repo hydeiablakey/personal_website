@@ -10,10 +10,22 @@ h1{
 
 body {
 	background-color:white;
+
+
 }
 
+
 p{
-	color: teal;
+	color:  grey darken-4;
+}
+
+nav .brand-logo{
+	padding-left: 100px;
+}
+
+nav .brand-logo img{
+	width: 70px;
+	height: 30px;
 }
 
 img{
@@ -24,7 +36,7 @@ img{
 }
 
 
-.about, .tech, .contact {
+.about, .tech, .contact, .posts {
 	margin-right: 100px;
 	margin-left: 100px;
 }
