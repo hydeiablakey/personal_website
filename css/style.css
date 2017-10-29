@@ -10,10 +10,14 @@ h1{
 
 body {
 	background-color:white;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
 
-
-}
-
+main {
+    flex: 1 0 auto;
+  }
 
 p{
 	color:  grey darken-4;
@@ -30,6 +34,8 @@ nav .brand-logo img {
 
 }
 
+
+
 img{
 	margin-left: 100px;
 	height: 193px;
@@ -38,7 +44,7 @@ img{
 }
 
 
-.about, .tech, .contact, .posts {
+.about, .tech, .posts {
 	margin-right: 100px;
 	margin-left: 100px;
 }
