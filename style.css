@@ -1,3 +1,31 @@
+<<<<<<< HEAD
+
+*{
+	font-family: 'Lato', arial;
+}
+
+h1{
+	color: pink;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 50px;
+}
+
+img{
+	margin-left: 100px;
+	height: 193px;
+	width: 257px;
+
+	margin-left:100px;
+	margin-right:100px;
+}
+
+.about, .tech, .contact {
+	margin-right: 100px;
+	margin-left: 100px;
+
+}
+=======
 /**{
 	font-family: 'Lato', helvetica;
 }
@@ -25,3 +53,4 @@ img{
 	margin-right: 100px;
 	margin-left: 100px;
 }*/
+>>>>>>> gh-pages
