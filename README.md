@@ -4,4 +4,4 @@ This is my first portfolio website that I've created using Materialize, a Google
 
 Usage 
 -----
-To view my website you can head over to this link [hydeiablakey.me/](hydeiablakey.me/)
+To view my website you can head over to this link [https://hydeiablakey.github.io/personal_website/](here)
